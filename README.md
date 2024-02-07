@@ -6,7 +6,7 @@ CarCare Is a premier establishment dedicated to providing exceptional and expert
 
 **Client:** Html, Css, Bootstrap5, javascript, React
 
-**Server:** Vercel, Youtube
+**Server:** Vercel
 
 ## Color Reference
 
