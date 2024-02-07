@@ -1,4 +1,31 @@
-<h1>This is the converted Website from HTML Website to React Website by Using Functional Components.</h1>
+# Car Care
+
+CarCare Is a premier establishment dedicated to providing exceptional and expert repair services exclusively for luxury vehicles. this website is made with the purpose of managing a garage while also doing marketing of that garage as well carcare project will provide customers a easy way to get their cars repair by experts.
+
+## Tech & Tools
+
+**Client:** Html, Css, Bootstrap5, javascript, React
+
+**Server:** Vercel, Youtube
+
+## Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Example Color | ![#F8F9FA](https://via.placeholder.com/10/F8F9FA?text=+) #F8F9FA |
+| Example Color | ![#212529](https://via.placeholder.com/10/212529?text=+) #212529 |
+| Example Color | ![#9D0007](https://via.placeholder.com/10/9D0007?text=+) #9D0007 |
+| Example Color | ![#0343BE](https://via.placeholder.com/10/0343BE?text=+) #0343BE |
+
+
+## Lessons Learned
+
+develop something which can be helpful to everyone.
+
+
+## Feedback
+
+If you have any feedback, please reach out to us at jyotdhamelia@gmail.com
 
 # Getting Started with Create React App
 
