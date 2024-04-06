@@ -27,7 +27,7 @@ function SliderImages(props) {
     item = 'active';
   return (<>
     <div className={"carousel-item " + item}>
-      <img src={props.image} className="d-block w-100" height={470} />
+      <img src={props.image} className="d-block w-100" height={470} loading='lazy'/>
     </div></>);
 }
 
@@ -53,7 +53,7 @@ function Services(props) {
 //function for brands section
 function Brands(props) {
   return (<><div className="col-lg-2 col-md-2 col-sm-3 col-4">
-    <img src={props.image} className="img-fluid" />
+    <img src={props.image} className="img-fluid" loading='lazy'/>
   </div></>)
 }
 
@@ -61,7 +61,7 @@ function Brands(props) {
 function Reviews(props) {
   return (<><div className="col-sm-4 col-12">
     <div className="card">
-      <img src={props.image} className="card-img-top" />
+      <img src={props.image} className="card-img-top" loading='lazy'/>
       <div className="card-body">
         <p>
           {props.text}<br /><b>{props.name}</b>
@@ -121,7 +121,7 @@ function Site() {
             <div className="card-body">
               <div className="row" id="whatwedo">
                 <div className="col-lg-4 col-md-4 col-sm-12 col-12">
-                  <img src="images/aboutus.jpg" className="img-fluid img-thumbnail" />
+                  <img src="images/aboutus.jpg" className="img-fluid img-thumbnail" loading='lazy'/>
                 </div>
                 <div className="col-lg-8 col-md-8 col-sm-12 col-12 fs-5 mt-4 text-capitalize">
                   <p>
