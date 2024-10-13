@@ -17,7 +17,7 @@
 - Brands section: this section showcases the company logos that we work with to get parts of your cars.
 - Reviews section: this section displays feedbacks recieved from our customers in static mode.
 - Book Appointment functionality: this section is to help customers reach out to CarCare by filling and submitting this form user can reach to CarCare mangement via email and book their appointment.
-- Footer: this section contains the map of CarCare workshop location also the address.    
+- Footer: this section contains the map of CarCare workshop location also the address is provided besides.    
 
 # Get Started
 - To get satrted with this website follow this steps:
