@@ -41,14 +41,17 @@ function SliderPrevNext(props) {
 
 //function for services section
 function Services(props) {
-  return (<><div className="col-lg-3 col-md-3 col-sm-6 col-12 mb-3">
-    <div className="card text-bg-dark shadow">
-      <div className="card-body">
-        <h6 className="text-uppercase text-center fw-bold">{props.text}</h6>
+  return (
+    <div className="col-lg-3 col-md-3 col-sm-6 col-12 mb-3">
+      <div className="card text-bg-dark shadow" style={{ cursor: 'default' }}>
+        <div className="card-body">
+          <h6 className="text-uppercase text-center fw-bold">{props.text}</h6>
+        </div>
       </div>
     </div>
-  </div></>);
+  );
 }
+
 
 //function for brands section
 function Brands(props) {
